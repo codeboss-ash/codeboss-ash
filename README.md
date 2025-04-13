@@ -53,4 +53,5 @@
 
 ### 🏆 Badges Coming Soon...
 ```markdown
-<!-- Comig Soon.. -->
+<!-- Coming Soon.. -->
+---
